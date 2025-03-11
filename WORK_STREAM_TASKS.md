@@ -137,7 +137,7 @@ This branch is for importing and organizing existing project materials before in
 ### Stage 1: Import Process
 
 - [ ] **Setup for imports** [docs/import-existing-materials] (High Priority) (Auto-completed by bootstrap)
-  - [ ] Create untracked/source-material directory for existing files (Auto-completed by bootstrap)
+  - [x] Create untracked/source-material directory for existing files (2025-03-11) (Auto-completed by bootstrap)
   - [ ] Have user upload existing code, documentation, and requirements
   - [ ] Confirm all materials are uploaded before organizing
 
@@ -168,6 +168,41 @@ This branch is for importing and organizing existing project materials before in
   - [ ] Verify branch and PR appear on GitHub
 
 ## Unassigned Tasks
+
+## Branch: [docs/import-existing-materials]
+
+This branch is for importing and organizing existing project materials before integrating them into the main structure.
+
+**Related Requirements:**
+- Context file: [context/docs-import-existing-materials-CONTEXT.md](context/docs-import-existing-materials-CONTEXT.md)
+- PR Template: [templates/IMPORT_MATERIALS_PR_TEMPLATE.md](templates/IMPORT_MATERIALS_PR_TEMPLATE.md)
+
+### Stage 1: Import Process
+
+- [ ] **Setup for imports** [docs/import-existing-materials] (High Priority)
+  - [x] Create untracked/source-material directory for existing files (2025-03-11)
+  - [ ] Have user upload existing code, documentation, and requirements
+  - [ ] Confirm all materials are uploaded before organizing
+
+- [ ] **Review and organize** [docs/import-existing-materials] (High Priority)
+  - [ ] Review uploaded materials to understand structure and content
+  - [ ] Create appropriate directories based on content types
+  - [ ] Organize files into proper structure
+  - [ ] Update documentation to reflect imported content
+
+### Stage 2: Branch Completion Process
+
+- [ ] **Create local PR** [docs/import-existing-materials] (High Priority)
+  - [ ] Ensure all changes are committed
+  - [ ] Create detailed PR description
+  - [ ] Highlight major changes and improvements
+  - [ ] Request review
+
+- [ ] **Push to GitHub** [docs/import-existing-materials] (High Priority)
+  - [ ] Push branch to GitHub
+  - [ ] Create PR on GitHub
+  - [ ] Verify branch and PR appear on GitHub
+
 
 Tasks that have not yet been assigned to a specific branch.
 
